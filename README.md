@@ -1,3 +1,3 @@
-# JavaAssignmentsFromSchool
+#SchoolStuff
 
-Collection of homework submitted for Java classes while attending EFSC.
+Collection of homework submitted for classes while attending EFSC.
